@@ -3,10 +3,8 @@
 
 ## Sobre Mim
 
-Sou Thiago Silva Pereira, Atualmente estudante de ciências da computação na UNIFEI. Ao longo do curso adiquiri grande interesse pela lógica da computação,
-o que me levou a realizar uma IC em aprendizado de máquina. Outra área de grande interesse é o desenolvimento web, onde realizei diversos prójetos legais dentro do curso.
-Naturalmente ansioso procuro sempre me manter calmo e com horários organizado, como um extra, minha curiodsidade também me trouxe um fascinio pela biologia que espero poder 
-combinhar com meu trabalho no futuro.
+Sou Thiago Silva Pereira, Atualmente estudante de ciências da computação na UNIFEI. Ao longo do curso adquiri grande interesse pela lógica da computação, o que me levou a realizar uma IC em aprendizado de máquina. Outra área de grande interesse é o desenvolvimento web, onde realizei diversos projetos legais dentro do curso. Naturalmente ansioso, procuro sempre me manter calmo e com horários organizados. Como um extra, minha curiosidade também me trouxe um fascínio pela biologia que espero poder combinar com meu trabalho no futuro.
+
 
 ```Python
 def BeHappy(life):
